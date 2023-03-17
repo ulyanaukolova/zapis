@@ -1,0 +1,21 @@
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\bin\Debug\net6.0-windows\учет бюджета.exe
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\bin\Debug\net6.0-windows\учет бюджета.deps.json
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\bin\Debug\net6.0-windows\учет бюджета.runtimeconfig.json
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\bin\Debug\net6.0-windows\учет бюджета.dll
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\bin\Debug\net6.0-windows\учет бюджета.pdb
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\obj\Debug\net6.0-windows\учет бюджета.csproj.AssemblyReference.cache
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\obj\Debug\net6.0-windows\учет бюджета_MarkupCompile.cache
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\obj\Debug\net6.0-windows\учет бюджета_MarkupCompile.lref
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\obj\Debug\net6.0-windows\учет бюджета.g.resources
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\obj\Debug\net6.0-windows\учет бюджета.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\obj\Debug\net6.0-windows\учет бюджета.AssemblyInfoInputs.cache
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\obj\Debug\net6.0-windows\учет бюджета.AssemblyInfo.cs
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\obj\Debug\net6.0-windows\учет бюджета.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\obj\Debug\net6.0-windows\учет бюджета.dll
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\obj\Debug\net6.0-windows\refint\учет бюджета.dll
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\obj\Debug\net6.0-windows\учет бюджета.pdb
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\obj\Debug\net6.0-windows\учет бюджета.genruntimeconfig.cache
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\obj\Debug\net6.0-windows\ref\учет бюджета.dll

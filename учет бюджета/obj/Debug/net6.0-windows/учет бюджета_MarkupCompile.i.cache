@@ -1,5 +1,5 @@
 ﻿учет бюджета
-
+1.0.0.0
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\App.xaml
 21098823078
 
-4286392052
+6562236505
 194237474483
 MainWindow.xaml;okno2.xaml;
 
-False
+True
 

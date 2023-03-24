@@ -19,3 +19,5 @@ C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\obj
 C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\obj\Debug\net6.0-windows\учет бюджета.pdb
 C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\obj\Debug\net6.0-windows\учет бюджета.genruntimeconfig.cache
 C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\obj\Debug\net6.0-windows\ref\учет бюджета.dll
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\obj\Debug\net6.0-windows\okno2.g.cs
+C:\Users\MASTER\source\repos\учет бюджета\учет бюджета\obj\Debug\net6.0-windows\okno2.baml

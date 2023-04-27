@@ -24,7 +24,7 @@ namespace учет_бюджета
         public okno2()
         {
             InitializeComponent();
-
+            inTag.Text = null;
         }
 
         private void OkButton_Click(object sender, RoutedEventArgs e)

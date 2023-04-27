@@ -37,7 +37,7 @@
         <TextBlock TextWrapping="Wrap" Text="Итого:" Grid.Column="0" Grid.Row="15" HorizontalAlignment="Center" VerticalAlignment="Center"/>
         <ComboBox x:Name="Tips" Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="6"/>
         <Button x:Name="Create_tip" Content="Добавить новый тип данных" Grid.Row="7" Grid.Column="1" Grid.ColumnSpan="2" Click="Create_tip_Click" />
-        <Button x:Name="Delete" Content="Удалить" Grid.Row="13" Grid.Column="1" Grid.ColumnSpan="2" />
+        <Button x:Name="Delete" Content="Удалить" Grid.Row="13" Grid.Column="1" Grid.ColumnSpan="2" Click="Delete_Click" />
         <Button x:Name="Сhange" Content="Сохранить" Grid.Row="14" Grid.Column="1" Grid.ColumnSpan="2" />
         <Button x:Name="Create" Content="Создать" Grid.Row="15" Grid.Column="1" Grid.ColumnSpan="2"/>
         <DataGrid x:Name="List" Grid.Column="0" Grid.Row="1" Grid.RowSpan="14"/>
